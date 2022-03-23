@@ -24,11 +24,11 @@ _telegram_: ed_k8
 | Photoshop            | ***    |
 | Github               | ***    |
 | Git                  | ***    |
-
-### Experience & code examples:
   
 ### Education:
-
-* МФПА
-### English:
-B2
+* JavaScript v.2.0 Lushenko Alexander
+* Web developer Ivan Petrichenko
+* MFPA Moscow
+### Language
+* English B1
+* Russian - Native
