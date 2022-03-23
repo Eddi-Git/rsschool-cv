@@ -28,7 +28,9 @@ _telegram_: ed_k8
 ### Education:
 * JavaScript v.2.0 Lushenko Alexander
 * Web developer Ivan Petrichenko
+* learn javascript
 * MFPA Moscow
+
 ### Language
 * English B1
 * Russian - Native
