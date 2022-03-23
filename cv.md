@@ -13,17 +13,15 @@
  
 ## Skills:
 
-
-* Soft skills  *****
-* Html         ****
-* Css          ****
-* Flexbox      ****
-* Grid         ****
-* JavaScript   **
-* Figma        ****
-* Photoshop    ***
-* Github       ***
-* Git          ***
+* Html         
+* Css          
+* Flexbox      
+* Grid         
+* JavaScript   
+* Figma        
+* Photoshop    
+* Github       
+* Git          
   
 ## Education:
 * JavaScript v.2.0 Lushenko Alexander
