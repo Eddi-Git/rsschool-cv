@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Eddi-Git.github.io/rsschool-cv/cv
+https://Eddi-Git.github.io/rsschool-cv/
